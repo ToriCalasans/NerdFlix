@@ -1,6 +1,7 @@
 {
     "categorias": [{
             "titulo": "Melhores aberturas",
+            "link": "https://www.legiaodosherois.com.br/lista/one-piece-melhores-episodios.html",
             "cor": "#6BD1FF",
             "link_extra": {
                 "text": "As 15 melhores abertura de animes",
@@ -93,7 +94,7 @@
             ]
         },
         {
-            "titulo": "Filmes",
+            "titulo": "Canais de Filmes",
             "cor": "orange",
             "videos": [{
                     "titulo": "Entre Planos",

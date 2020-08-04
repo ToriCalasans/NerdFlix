@@ -18,7 +18,14 @@ function LikePagina() {
                     type = "range"
                     name = "nota"                
                     onChange = "onChange"
-                    list = "tickmarks"
+                />
+            </label>
+            <label>
+                <input 
+                    type = "submit"
+                    name = "enviar"
+                    value = "Enviar"
+
                 />
             </label>
             

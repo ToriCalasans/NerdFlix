@@ -1,0 +1,8 @@
+{
+    "categoria": [{
+        "id": 1,
+        "nome": "Doguinhos",
+        "descricao": "Uma categoria show",
+        "cor": "#FF4500"
+    }]
+}

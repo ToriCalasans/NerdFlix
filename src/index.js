@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 /* eslint-disable react/jsx-equals-spacing */
 /* eslint-disable react/jsx-indent */
 import React from 'react';

@@ -1,5 +1,5 @@
 {
-    "categoria": [{
+    "categorias": [{
             "id": 1,
             "titulo": "Melhores aberturas",
             "cor": "#6BD1FF",
@@ -16,7 +16,6 @@
                 "text": "Os 22 melhores animes dublados",
                 "url": "https://cupulatrovao.com.br/especiais/22-melhores-animes-dublados-os-mais-famosos-ou-nem-tanto-do-brasil/"
             }
-
         },
         {
             "id": 3,
@@ -54,224 +53,237 @@
                 "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
             }
         }
-
     ],
     "videos": [{
-            "id": 1,
             "categoriaId": 1,
             "titulo": "Shingeki no Kyojin | Shinzou wo Sasageyo",
-            "url": "https://www.youtube.com/watch?v=CID-sYQNCew"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=CID-sYQNCew",
+            "id": 1
         },
         {
-            "id": 2,
             "categoriaId": 1,
             "titulo": " Boku No Hero | Peace sing",
-            "url": "https://www.youtube.com/watch?v=Q7w5IMyJ3pM"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=Q7w5IMyJ3pM",
+            "id": 2
         },
         {
-            "id": 3,
             "categoriaId": 1,
             "titulo": "Neon Genesis Evangelion | Zankoku na tenshi no thesis",
-            "url": "https://www.youtube.com/watch?v=o6wtDPVkKqI"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=o6wtDPVkKqI",
+            "id": 3
         },
         {
-            "id": 4,
             "categoriaId": 1,
             "titulo": "DORORO | Kaen",
-            "url": "https://www.youtube.com/watch?v=FgQR2O8PGf4"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=FgQR2O8PGf4",
+            "id": 4
         },
         {
-            "id": 5,
             "categoriaId": 1,
             "titulo": "Tokyo Ghoul | Unravel",
-            "url": "https://www.youtube.com/watch?v=uMeR2W19wT0"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=uMeR2W19wT0",
+            "id": 5
         },
         {
-            "id": 6,
             "categoriaId": 1,
             "titulo": "Kimetsu No Yaiba - Gurenge",
-            "url": "https://www.youtube.com/watch?v=pmanD_s7G3U&t=8s"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=pmanD_s7G3U&t=8s",
+            "id": 6
         },
         {
-            "id": 7,
             "categoriaId": 2,
             "titulo": "Yu Yu Hakusho | Sorriso Contagiante",
-            "url": "https://www.youtube.com/watch?v=0GvS5nEdoeU"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=0GvS5nEdoeU",
+            "id": 7
         },
         {
-            "id": 8,
             "categoriaId": 2,
             "titulo": "Cavaleiros do Zodiaco | Pegasus Fantasy",
-            "url": "https://www.youtube.com/watch?v=WCV74ZtLx6I"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=WCV74ZtLx6I",
+            "id": 8
         },
         {
-            "id": 9,
             "categoriaId": 2,
             "titulo": "Pokemon | Temos que Pegar",
-            "url": "https://www.youtube.com/watch?v=ftR3pHZKyOE"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=ftR3pHZKyOE",
+            "id": 9
         },
         {
-            "id": 10,
             "categoriaId": 2,
             "titulo": "Dragon Ball Z | We Gotta Power",
-            "url": "https://www.youtube.com/watch?v=uY8ZU9wc9fI&list=PLZ1dJqY6KWOU9pTYHxMbRmve-iAj4rBjY&index=152"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=uY8ZU9wc9fI&list=PLZ1dJqY6KWOU9pTYHxMbRmve-iAj4rBjY&index=152",
+            "id": 10
         },
         {
-            "id": 11,
             "categoriaId": 2,
             "titulo": "Super Onze | Maji de kansha",
-            "url": "https://www.youtube.com/watch?v=01Kv0N_GFZE"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=01Kv0N_GFZE",
+            "id": 11
         },
         {
-            "id": 12,
             "categoriaId": 3,
             "titulo": "Coisa de Nerd",
-            "url": "https://www.youtube.com/watch?v=7LZEwf-NL-E"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=7LZEwf-NL-E",
+            "id": 12
         },
         {
-            "id": 13,
             "categoriaId": 3,
             "titulo": "All Blue",
-            "url": "https://www.youtube.com/watch?v=oyQHH-D2KtY"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=oyQHH-D2KtY",
+            "id": 13
         },
         {
-            "id": 14,
             "categoriaId": 3,
             "titulo": "Gabi Xavier",
-            "url": "https://www.youtube.com/watch?v=n3Mf1HiNuwc"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=n3Mf1HiNuwc",
+            "id": 14
         },
         {
-            "id": 15,
             "categoriaId": 3,
             "titulo": "Jovem Nerd",
-            "url": "https://www.youtube.com/watch?v=nNLnhof26Og&list=PLB_vaUBxT31Ugggd9bs_JJzo3wZSKf7PE&index=44"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=nNLnhof26Og&list=PLB_vaUBxT31Ugggd9bs_JJzo3wZSKf7PE&index=44",
+            "id": 15
         },
         {
-            "id": 16,
+            "categoriaId": 3,
+            "titulo": "Hagazo",
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=wOiXnnr7Ybc",
+            "id": 16
+        },
+        {
             "categoriaId": 3,
             "titulo": "BRKsEdu",
-            "url": "https://www.youtube.com/watch?v=XA74YQB7X-0"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=XA74YQB7X-0",
+            "id": 17
         },
         {
-            "id": 11,
-            "categoriaId": 2,
-            "titulo": "Super Onze | Maji de kansha",
-            "url": "https://www.youtube.com/watch?v=01Kv0N_GFZE"
-        },
-        {
-            "id": 12,
-            "categoriaId": 3,
-            "titulo": "Coisa de Nerd",
-            "url": "https://www.youtube.com/watch?v=7LZEwf-NL-E"
-        },
-        {
-            "id": 13,
-            "categoriaId": 3,
-            "titulo": "All Blue",
-            "url": "https://www.youtube.com/watch?v=oyQHH-D2KtY"
-        },
-        {
-            "id": 14,
-            "categoriaId": 3,
-            "titulo": "Gabi Xavier",
-            "url": "https://www.youtube.com/watch?v=n3Mf1HiNuwc"
-        },
-        {
-            "id": 15,
-            "categoriaId": 3,
-            "titulo": "Jovem Nerd",
-            "url": "https://www.youtube.com/watch?v=nNLnhof26Og&list=PLB_vaUBxT31Ugggd9bs_JJzo3wZSKf7PE&index=44"
-        },
-        {
-            "id": 17,
-            "categoriaId": 3,
-            "titulo": "BRKsEdu",
-            "url": "https://www.youtube.com/watch?v=XA74YQB7X-0"
-        },
-        {
-            "id": 18,
             "categoriaId": 4,
             "titulo": "Entre Planos",
-            "url": "https://www.youtube.com/watch?v=Lo0Eb-OVQnk"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=Lo0Eb-OVQnk",
+            "id": 18
         },
         {
-            "id": 19,
             "categoriaId": 4,
             "titulo": "Super 8",
-            "url": "https://www.youtube.com/watch?v=WWagb_mrSvs&list=PLTguwW0MwhTPTiD4jLs9-b9wh1lSkklxT&index=28"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=WWagb_mrSvs&list=PLTguwW0MwhTPTiD4jLs9-b9wh1lSkklxT&index=28",
+            "id": 19
         },
         {
-            "id": 20,
             "categoriaId": 4,
             "titulo": "Pipocando",
-            "url": "https://www.youtube.com/watch?v=jhUsacIdj8o"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=jhUsacIdj8o",
+            "id": 20
         },
         {
-            "id": 21,
             "categoriaId": 4,
             "titulo": "omeleteve",
-            "url": "https://www.youtube.com/watch?v=kLvZZHr130M"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=kLvZZHr130M",
+            "id": 21
         },
         {
-            "id": 22,
             "categoriaId": 4,
-            "titulo": "Alura",
-            "url": "https://youtu.be/NQMQWwUkLQs"
+            "titulo": "Cartoonizando",
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=cT6MZp2zPHs&list=PLt-swFu7H13XXAyo4A6O-A-gOjqs2PDBD",
+            "id": 22
         },
         {
-            "id": 23,
             "categoriaId": 5,
             "titulo": "Rocketz Labz",
-            "url": "https://www.youtube.com/watch?v=SMMnZ6wJhF0"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=SMMnZ6wJhF0",
+            "id": 23
         },
         {
-            "id": 24,
             "categoriaId": 5,
             "titulo": "Curso em video",
-            "url": "https://www.youtube.com/watch?v=SGOsSpiz12U"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=SGOsSpiz12U",
+            "id": 24
         },
         {
             "id": 25,
             "categoriaId": 5,
             "titulo": "Universo Programado",
+            "description": "x",
             "url": "https://www.youtube.com/watch?v=r8KWciNmEGw"
         },
         {
-            "id": 26,
             "categoriaId": 5,
             "titulo": "Laboratório da Julia",
-            "url": "https://www.youtube.com/watch?v=5f5Ewq2_WHQ"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=5f5Ewq2_WHQ",
+            "id": 26
         },
         {
-            "id": 27,
             "categoriaId": 6,
             "titulo": "Manual do Mundo",
-            "url": "https://www.youtube.com/watch?v=AKj-lDEbSXs"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=AKj-lDEbSXs",
+            "id": 27
         },
         {
-            "id": 28,
             "categoriaId": 6,
             "titulo": "Canal do Pirula",
-            "url": "https://www.youtube.com/watch?v=ExJbx_fZJEs"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=ExJbx_fZJEs",
+            "id": 28
         },
         {
-            "id": 29,
             "categoriaId": 6,
             "titulo": "Atila Iamarino",
-            "url": "https://www.youtube.com/watch?v=ON7kl-2n4Fk"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=ON7kl-2n4Fk",
+            "id": 29
         },
         {
-            "id": 30,
             "categoriaId": 6,
             "titulo": "Drauzio Varella",
-            "url": "https://www.youtube.com/watch?v=fBAgNhXEFfo"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=fBAgNhXEFfo",
+            "id": 30
         },
         {
-            "id": 31,
             "categoriaId": 6,
             "titulo": "Nerdologia",
-            "url": "https://www.youtube.com/watch?v=kros-1kU1Qc&t=24s"
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=kros-1kU1Qc&t=24s",
+            "id": 31
+        },
+        {
+            "titulo": "segredos dos animes",
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=RjHMBlsaDpQ",
+            "categoriaId": 3,
+            "id": 33
+        },
+        {
+            "titulo": "Desenhando com Kouhei",
+            "description": "x",
+            "url": "https://www.youtube.com/watch?v=LLoipF7Fncs",
+            "categoriaId": 3,
+            "id": 34
         }
-
     ]
 }

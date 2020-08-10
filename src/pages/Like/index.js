@@ -1,44 +1,39 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
-import PageDefault from '../../components/PageDefault';
 import { Link } from 'react-router-dom';
+import PageDefault from '../../components/PageDefault';
 
 function LikePagina() {
-
-
-    return (
-        <PageDefault>
-        <div>
+  return (
+    <PageDefault>
+      <div>
         <h1> Obrigada por curtir nossa página.</h1>
-        <progress value="50" max="100" > Progresso em 50 %</progress>
+        <progress value="50" max="100"> Progresso em 50 %</progress>
         <h1>Nosso site ainda está em desenvolvimento mas em breve vai funcionar lindamente.</h1>
 
-        
-            <label> Avalie nosso trabalho
-                <input
-                    type = "range"
-                    name = "nota"                
-                    onChange = "onChange"
-                />
-            </label>
-            <label>
-                <input 
-                    type = "submit"
-                    name = "enviar"
-                    value = "Enviar"
+        <label>
+          {' '}
+          Avalie nosso trabalho
+          <input
+            type="range"
+            name="nota"
+            onChange="onChange"
+          />
+        </label>
+        <label>
+          <input
+            type="submit"
+            name="enviar"
+            value="Enviar"
+          />
+        </label>
 
-                />
-            </label>
-            
-        </div>
+      </div>
 
-        
-            
-            <form>
-
-            </form>
-            <Link to='/'>Voltar para home</Link>
-        </PageDefault>
-    )
+      <form />
+      <Link to="/">Voltar para home</Link>
+    </PageDefault>
+  );
 }
 
 export default LikePagina;

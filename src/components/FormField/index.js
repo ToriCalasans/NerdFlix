@@ -130,5 +130,4 @@ FormField.propTypes = {
   suggestions: PropTypes.arrayOf(PropTypes.string),
 };
 
-// eslint-disable-next-line eol-last
 export default FormField;
